@@ -13,12 +13,10 @@ I'm driven by curiosity and a constant desire to improve. Whether it's backend l
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=for-the-badge&logo=fastify)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma)
 
 ## What I'm Into
 
@@ -28,10 +26,10 @@ I'm driven by curiosity and a constant desire to improve. Whether it's backend l
 - Building beautiful and engaging experiences with Next.js.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcoffee9&rank_icon=github&theme=github_dark" />
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcoffee9&rank_icon=github&theme=github_dark&card_width=150" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoffee9&layout=compact&theme=github_dark&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoffee9&layout=compact&theme=github_dark&card_width=150" />
 </a>
 
 ## Let's Connect
