@@ -27,9 +27,12 @@ I'm driven by curiosity and a constant desire to improve. Whether it's backend l
 - Creating smooth mobile experiences with Flutter.  
 - Building beautiful and engaging experiences with Next.js.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielCoffee9&theme=github-compact" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcoffee9&rank_icon=github&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcoffee9&layout=compact&theme=github_dark&card_width=320" />
+</a>
 
 ## Let's Connect
 
